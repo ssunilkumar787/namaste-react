@@ -1,4 +1,4 @@
-# namaste React
+# Namaste React
 
 # Parcel
 - Dev Build
